@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="donem_sonu_projesi"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="donem_sonu_projesi">
+				<Option output="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/donem_sonu_projesi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 donem_sonu_projesi"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="donem_sonu_projesi/fast">
+				<Option output="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/donem_sonu_projesi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 donem_sonu_projesi/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/dosyafonksiyonlari.c">
+			<Option target="donem_sonu_projesi"/>
+		</Unit>
+		<Unit filename="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/main.c">
+			<Option target="donem_sonu_projesi"/>
+		</Unit>
+		<Unit filename="/Users/denizayhan04/Desktop/2-22-CalisanlarProjesi/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

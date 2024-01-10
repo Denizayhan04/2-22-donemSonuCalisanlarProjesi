@@ -1,0 +1,2 @@
+id:1, isim:Denene kişisi, yaş:10, Saatlik ücret:10, Çalışma saati:10, Maaş:100
+id:2, isim:wq, yaş:21, Saatlik ücret:33, Çalışma saati:43, Maaş:1419
